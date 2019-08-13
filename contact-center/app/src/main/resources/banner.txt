@@ -7,5 +7,5 @@
 
 =============== Powered by chatopera ============
 ------ https://github.com/chatopera/cosin -------
-        春松客服: 全渠道智能客服 version ${application.version}
+        xbot: 全渠道智能客服 version ${application.version}
 _________________________________________________

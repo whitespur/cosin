@@ -44,10 +44,10 @@ public class ApiConfigure {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("春松客服")
-                .description("春松客服 基于 JAVA 语言开发，是一个全渠道融合的客户支持服务平台，聚合企业内部多个客服渠道，帮助各种行业各种规模的企业建立完整客服体系。通过将邮件、短信、电话语音、WebIM 在线客服、微信、微博、H5 页面、APP 接口等多个渠道来源的客户服务请求与对话汇聚在一个管理平台，用统一的方式来响应和支撑客户服务。")
+                .title("xbot")
+                .description("xbot 基于 JAVA 语言开发，是一个全渠道融合的客户支持服务平台，聚合企业内部多个客服渠道，帮助各种行业各种规模的企业建立完整客服体系。通过将邮件、短信、电话语音、WebIM 在线客服、微信、微博、H5 页面、APP 接口等多个渠道来源的客户服务请求与对话汇聚在一个管理平台，用统一的方式来响应和支撑客户服务。")
                 .termsOfServiceUrl("http://docs.chatopera.com/")
-                .contact("春松客服")
+                .contact("xbot")
                 .version("1.0.0")
                 .build();
     }

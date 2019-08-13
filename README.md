@@ -1,23 +1,23 @@
 [![Docker Layers](https://images.microbadger.com/badges/image/chatopera/contact-center:develop.svg)](https://microbadger.com/images/chatopera/contact-center:develop "Get your own image badge on microbadger.com") [![Docker Version](https://images.microbadger.com/badges/version/chatopera/contact-center:develop.svg)](https://microbadger.com/images/chatopera/contact-center:develop "Get your own version badge on microbadger.com") [![Docker Pulls](https://img.shields.io/docker/pulls/chatopera/contact-center.svg)](https://hub.docker.com/r/chatopera/contact-center/) [![Docker Stars](https://img.shields.io/docker/stars/chatopera/contact-center.svg)](https://hub.docker.com/r/chatopera/contact-center/) [![Docker Commit](https://images.microbadger.com/badges/commit/chatopera/contact-center:develop.svg)](https://microbadger.com/images/chatopera/contact-center:develop "Get your own commit badge on microbadger.com")
 
 <p align="center">
-  <b>春松客服QQ交流群：185659917， <a href="https://jq.qq.com/?_wv=1027&k=5I1cJLP" target="_blank">点击链接加入群聊</a></b><br>
+  <b>xbotQQ交流群：185659917， <a href="https://jq.qq.com/?_wv=1027&k=5I1cJLP" target="_blank">点击链接加入群聊</a></b><br>
   <img src="https://user-images.githubusercontent.com/3538629/44917177-432d9700-ad6a-11e8-9420-46b0281073e6.png" width="200">
 </p>
 
-# 春松客服: 全渠道智能客服
+# xbot: 全渠道智能客服
 
-春松客服是帮助中小型企业快速而低成本的获得好用的智能客服系统。
+xbot是帮助中小型企业快速而低成本的获得好用的智能客服系统。
 
 
 <img src="https://user-images.githubusercontent.com/3538629/61031891-fc311900-a3f2-11e9-80cf-c8d0700538a0.png" width="600">
 
 
-春松客服是Chatopera自主研发以及基于且增强其它开源软件的方式实现的，春松客服会不断增强客服系统的智能化，这包括利用自然语言处理、机器学习和语音识别等技术让客服工作更有效率、客服满意度更高、成本更低。
+xbot是Chatopera自主研发以及基于且增强其它开源软件的方式实现的，xbot会不断增强客服系统的智能化，这包括利用自然语言处理、机器学习和语音识别等技术让客服工作更有效率、客服满意度更高、成本更低。
 
 **开源项目地址：** [https://github.com/chatopera/cosin](https://github.com/chatopera/cosin)
 
-**开发环境搭建：** [https://github.com/chatopera/cosin/wiki/春松客服：开发环境](https://github.com/chatopera/cosin/wiki/%E6%98%A5%E6%9D%BE%E5%AE%A2%E6%9C%8D%EF%BC%9A%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83)
+**开发环境搭建：** [https://github.com/chatopera/cosin/wiki/xbot：开发环境](https://github.com/chatopera/cosin/wiki/%E6%98%A5%E6%9D%BE%E5%AE%A2%E6%9C%8D%EF%BC%9A%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83)
 
 
 ## 内容结构
@@ -66,7 +66,7 @@
 
 * 外呼系统：自动外呼，手动外呼，监听和报表等
 
-<b> 《春松客服产品系列视频》 </b>
+<b> 《xbot产品系列视频》 </b>
 <table align="center">
   <tr>
     <th>序号</th>
@@ -217,18 +217,18 @@ Amazing! 要的就是这个效果。
 
 * 企业版
 
-通过青云AppCenter部署，青云AppCenter是开发运维一体化(DevOps)管理企业应用的平台，Chatopera的春松客服在2018年10月登录AppCenter，并借助PaaS平台强大的计算能力实现计算节点集群、存储节点HADR。从而保证了服务高可靠性、高性能、动态伸缩、一键备份和一键回滚等功能。
+通过青云AppCenter部署，青云AppCenter是开发运维一体化(DevOps)管理企业应用的平台，Chatopera的xbot在2018年10月登录AppCenter，并借助PaaS平台强大的计算能力实现计算节点集群、存储节点HADR。从而保证了服务高可靠性、高性能、动态伸缩、一键备份和一键回滚等功能。
 
-青云AppCenter以其提供的资源秒级计算特点，企业使用AppCenter中的春松客服应用，可以按需付费，灵活升配和降配，Chatopera也非常推荐客户使用青云服务。
+青云AppCenter以其提供的资源秒级计算特点，企业使用AppCenter中的xbot应用，可以按需付费，灵活升配和降配，Chatopera也非常推荐客户使用青云服务。
 
 <p align="center">
-  <b>春松客服 on QingCloud</b><br>
+  <b>xbot on QingCloud</b><br>
   <a href="https://appcenter.qingcloud.com/apps/app-zdh88kz7/%E6%98%A5%E6%9D%BE%E5%AE%A2%E6%9C%8D" target="_blank">
       <img src="https://user-images.githubusercontent.com/3538629/47984143-a17f4900-e110-11e8-95c9-d8302e000c34.png" width="900">
   </a>
 </p>
 
-更为详细的部署文档见[春松客服上架青云AppCenter](https://github.com/chatopera/cosin/wiki/%E6%98%A5%E6%9D%BE%E5%AE%A2%E6%9C%8D%E4%B8%8A%E6%9E%B6%E9%9D%92%E4%BA%91AppCenter)。
+更为详细的部署文档见[xbot上架青云AppCenter](https://github.com/chatopera/cosin/wiki/%E6%98%A5%E6%9D%BE%E5%AE%A2%E6%9C%8D%E4%B8%8A%E6%9E%B6%E9%9D%92%E4%BA%91AppCenter)。
 
 * 社区版
 
