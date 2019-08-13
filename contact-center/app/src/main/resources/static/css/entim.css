@@ -31,13 +31,13 @@ i, cite, em, var, address, dfn {
     font-size: 18px;
 }
 .ukefu-entim-status{
-	color:#32c24d;
+	color:#3262d2;
 }
 .offline{
 	color:#aaaaaa;
 }
 .online{
-	color:#32c24d;
+	color:#3262d2;
 }
 .ukefu-entim-close{
 	position: absolute;
@@ -71,7 +71,7 @@ i, cite, em, var, address, dfn {
 .ukefu-entim-point{
 	line-height:50px;
 	text-align:center;
-	background-color:#32c24d;
+	background-color:#3262d2;
 	color:#FFFFFF;
 }
 .layim-tab-content li h5 {
@@ -142,7 +142,7 @@ i, cite, em, var, address, dfn {
     padding:10px 10px 0px 0px;	
 }
 .layui-tab-brief>.layui-tab-title .layui-this {
-    color: #32c24d;
+    color: #3262d2;
 }
 .ukefu-entim-tool li{
 	
@@ -170,7 +170,7 @@ i, cite, em, var, address, dfn {
     line-height: 20px;
     padding: 0 10px;
     border-radius: 2px;
-    background-color: #32c24d;
+    background-color: #3262d2;
     color: #fff;
     font-size: 12px;
     -webkit-animation-duration: 1s;
@@ -258,7 +258,7 @@ input,textarea{
 	border-color: #8E8E8E;
 }
 #header .toggle-color #skin4{
-	border-color: #8ECA51;
+	border-color: #3262d2;
 }
 #header .toggle-color #skin5{
 	border-color: #E45DB3;
@@ -618,8 +618,8 @@ input.radioIn {
 	-moz-transition: background-position 0.1s linear;
 	-o-transition: background-position 0.1s linear;
 	transition: background-position 0.1s linear;
-	background-color: #8ECA51;
-	*background-color:  #8ECA51;
+	background-color: #3262d2;
+	*background-color:  #3262d2;
 }
 p.submitBtnWrap {
 	text-align: right;
@@ -748,10 +748,10 @@ p.submitBtnWrap {
 	width:600px;
 	height: 255px;
 	margin: 20px auto;
-	background-color: #8ECA51;
+	background-color: #3262d2;
 }
 .service .white-box{
-	color: #8ECA51;
+	color: #3262d2;
 	width: 520px;
 	height: 180px;
 	position: relative;
@@ -917,7 +917,7 @@ p.submitBtnWrap {
 .ukefu-group-apps .ukefu-group-app-icon{
 	width: 32px;
     height: 32px;
-    background-color: #32c24d;
+    background-color: #3262d2;
     color: #ffffff;
     font-size: 20px;
     margin-right: 0px;

@@ -82,7 +82,7 @@ input,textarea{
 	border-color: #8E8E8E;
 }
 #header .toggle-color #skin4{
-	border-color: #32c24d;
+	border-color: #3262d2;
 }
 #header .toggle-color #skin5{
 	border-color: #E45DB3;
@@ -424,7 +424,7 @@ input,textarea{
 	width: 96px;
 	height: 34px;
 	float: right;
-	background-color: #8ECA51;
+	background-color: #3262d2;
 	margin-left: 20px;
 	margin-right: 20px;
 	border: none;
@@ -541,8 +541,8 @@ input.radioIn {
 	-moz-transition: background-position 0.1s linear;
 	-o-transition: background-position 0.1s linear;
 	transition: background-position 0.1s linear;
-	background-color: #32c24d;
-	*background-color:  #32c24d;
+	background-color: #3262d2;
+	*background-color:  #3262d2;
 }
 p.submitBtnWrap {
 	text-align: right;
@@ -671,10 +671,10 @@ p.submitBtnWrap {
 	width:600px;
 	height: 255px;
 	margin: 20px auto;
-	background-color: #32c24d;
+	background-color: #3262d2;
 }
 .service .white-box{
-	color: #32c24d;
+	color: #3262d2;
 	width: 520px;
 	height: 180px;
 	position: relative;

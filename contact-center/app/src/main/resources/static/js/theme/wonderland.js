@@ -21,7 +21,7 @@
     }
     echarts.registerTheme('wonderland', {
         "color": [
-            "#32c24d",
+            "#3262d2",
             "#22c3aa",
             "#7bd9a5",
             "#d0648a",
@@ -192,7 +192,7 @@
             "symbol": "emptyCircle",
             "smooth": false,
             "color": [
-                "#32c24d",
+                "#3262d2",
                 "#22c3aa",
                 "#7bd9a5",
                 "#d0648a",

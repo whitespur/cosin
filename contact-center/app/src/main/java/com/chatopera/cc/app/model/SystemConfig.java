@@ -432,9 +432,9 @@ public class SystemConfig implements java.io.Serializable{
 	}
 	@Transient
 	public String getBackgroundColor(){
-		String backgroundColor = "background-color:#32c24d !important;" ;
+		String backgroundColor = "background-color:#3262d2 !important;" ;
 		if(!StringUtils.isBlank(this.theme) && this.theme.equals("01")){
-			backgroundColor = "background-color:#32c24d !important;" ;
+			backgroundColor = "background-color:#3262d2 !important;" ;
 		}else if(!StringUtils.isBlank(this.theme) && this.theme.equals("02")){
 			backgroundColor = "background-color:#373d41 !important;" ;
 		}else if(!StringUtils.isBlank(this.theme) && this.theme.equals("03")){
@@ -444,11 +444,11 @@ public class SystemConfig implements java.io.Serializable{
 	}
 	@Transient
 	public String getColor(){
-		String color = "color:#32c24d;" ;
+		String color = "color:#3262d2;" ;
 		if(!StringUtils.isBlank(this.theme) && this.theme.equals("01")){
-			color = "color:#32c24d;" ;
+			color = "color:#3262d2;" ;
 		}else if(!StringUtils.isBlank(this.theme) && this.theme.equals("02")){
-			color = "color:#32c24d;" ;
+			color = "color:#3262d2;" ;
 		}else if(!StringUtils.isBlank(this.theme) && this.theme.equals("03")){
 			color = "color:#1E90FF;" ;
 		}
@@ -457,11 +457,11 @@ public class SystemConfig implements java.io.Serializable{
 	
 	@Transient
 	public String getBgColor(){
-		String color = "background-color:#32c24d;" ;
+		String color = "background-color:#3262d2;" ;
 		if(!StringUtils.isBlank(this.theme) && this.theme.equals("01")){
-			color = "background-color:#32c24d !important;" ;
+			color = "background-color:#3262d2 !important;" ;
 		}else if(!StringUtils.isBlank(this.theme) && this.theme.equals("02")){
-			color = "background-color:#32c24d !important;" ;
+			color = "background-color:#3262d2 !important;" ;
 		}else if(!StringUtils.isBlank(this.theme) && this.theme.equals("03")){
 			color = "background-color:#1E90FF !important;" ;
 		}
@@ -470,11 +470,11 @@ public class SystemConfig implements java.io.Serializable{
 	
 	@Transient
 	public String getStyleColor(){
-		String color = "#32c24d  !important;" ;
+		String color = "#3262d2  !important;" ;
 		if(!StringUtils.isBlank(this.theme) && this.theme.equals("01")){
-			color = "#32c24d  !important;" ;
+			color = "#3262d2  !important;" ;
 		}else if(!StringUtils.isBlank(this.theme) && this.theme.equals("02")){
-			color = "#32c24d  !important;" ;
+			color = "#3262d2  !important;" ;
 		}else if(!StringUtils.isBlank(this.theme) && this.theme.equals("03")){
 			color = "#1E90FF  !important;" ;
 		}
