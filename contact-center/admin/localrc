@@ -13,10 +13,11 @@ export SPRING_DATASOURCE_DRIVER_CLASS_NAME=com.mysql.jdbc.Driver
 #export SPRING_DATASOURCE_URL=jdbc:mysql://localhost:8889/ukefu-test?useUnicode=true&characterEncoding=UTF-8
 #export SPRING_DATASOURCE_USERNAME=root
 #export SPRING_DATASOURCE_PASSWORD=root
-export SPRING_DATASOURCE_URL=jdbc:mysql://localhost:3306/contactcenter?useUnicode=true&characterEncoding=UTF-8
+export SPRING_DATASOURCE_URL=jdbc:mysql://localhost:8037/contactcenter?useUnicode=true&characterEncoding=UTF-8
 export SPRING_DATASOURCE_USERNAME=root
 export SPRING_DATASOURCE_PASSWORD=123456
 export MANAGEMENT_SECURITY_ENABLED=false
 export SPRING_REDIS_DATABASE=2
 export SPRING_REDIS_HOST=redis
-export SPRING_REDIS_PORT=6379
+#export SPRING_REDIS_PORT=6379
+export SPRING_REDIS_PORT=8041

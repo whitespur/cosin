@@ -15,7 +15,6 @@ sftp-config.json
 ~$*.xls*
 ~$*.ppt*
 ~$*.doc*
-admin/localrc
 app/target/
 app/.classpath
 app/.project

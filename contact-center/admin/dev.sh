@@ -5,7 +5,7 @@
 
 # constants
 baseDir=$(cd `dirname "$0"`;pwd)
-
+echo "baseDir is $baseDir"
 if [ -f $baseDir/localrc ]; then
     echo "Load localrc for environment variables ..."
     set -x
